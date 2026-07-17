@@ -1,1 +1,1 @@
-# ardunio-snake-game
+# ardunio-joystick-snake-game
